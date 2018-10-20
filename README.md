@@ -1,6 +1,6 @@
 # Object Detection for Moose using Tensorflow's Object Detector API
 
-![Result of my moose detector.](https://github.com/Kishaan/Moose-Object-Detector/blob/master/object_detection/test_images/result.png)
+![Result of my moose detector.](https://github.com/Kishaan/Moose-Object-Detector/blob/master/object_detection/test_images/result.png =400x)
 
 ## TensorFlow Models
 
