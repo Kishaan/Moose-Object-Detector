@@ -31,7 +31,7 @@ Clone the tensorflow's models repository using the following command.
 Create tensorflow/models/research/object_detection/images, tensorflow/models/research/object_detection/images/train, and tensorflow/models/research/object_detection/images/test folders.  
 
 ```
-https://github.com/Kishaan/Moose-Object-Detector.git
+git clone https://github.com/tensorflow/models.git
 ```
 
 ### 2. Collecting and creating dataset
