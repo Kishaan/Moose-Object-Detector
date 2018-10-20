@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_images</folder>
+	<filename>88.jpg</filename>
+	<path>/home/jk/Downloads/test_images/88.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>688</width>
+		<height>344</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>moose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>54</ymin>
+			<xmax>534</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>

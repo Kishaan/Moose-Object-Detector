@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_images</folder>
+	<filename>22.jpg</filename>
+	<path>/home/jk/Downloads/train_images/22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>moose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>17</ymin>
+			<xmax>446</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

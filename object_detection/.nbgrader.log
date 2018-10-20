@@ -1,0 +1,34 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jk/Downloads/tensorflow/models/research/object_detection
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=dfd7e21d7059b3171315795a2291377fabbc7b27fa4756d4
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=dfd7e21d7059b3171315795a2291377fabbc7b27fa4756d4
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from 127.0.0.1
+[NotebookApp | WARNING] Notebook object_detection_tutorial.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 6ab160dd-ade3-4ec5-a52d-c2a604035084
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6ab160dd-ade3-4ec5-a52d-c2a604035084
+[NotebookApp | INFO] Saving file at /object_detection_tutorial.ipynb
+[NotebookApp | INFO] Saving file at /object_detection_tutorial.ipynb
+[NotebookApp | INFO] Saving file at /object_detection_tutorial.ipynb
+[NotebookApp | INFO] Saving file at /object_detection_tutorial.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jk/HBRS/NN/object_detection
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=041524faef7147efb29e9703d77f1a4f327dd131be0efcea
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=041524faef7147efb29e9703d77f1a4f327dd131be0efcea
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from 127.0.0.1
+[NotebookApp | INFO] Kernel started: 70687977-70ec-45a2-8469-d39dea2c2efd
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 70687977-70ec-45a2-8469-d39dea2c2efd
+[NotebookApp | INFO] Saving file at /object_detection_tutorial.ipynb
